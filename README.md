@@ -1,0 +1,3 @@
+Defeat the Monsters as you encounter them! Level up to rank 20 to win the game, 
+collect as much gold as you can along the way and drink the mystical potions
+to upgrade strength, health or drink poison...
