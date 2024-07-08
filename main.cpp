@@ -1,3 +1,4 @@
+#include "random.h"
 
 class Creature {
 
